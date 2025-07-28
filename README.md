@@ -60,7 +60,7 @@ AdobeIndiaHackathon25Sol2/
    python pdf_analyzer.py
    ```
 
-## 🐳 Docker Instructions for Challenge 1b
+## Docker Instructions for Challenge 1b
 
 ### Dockerfile Summary:
 - Mount entire project directory to `/app`
