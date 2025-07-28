@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T16:10:14.610848"
+    },
+    "extracted_sections": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Veggie Sushi Rolls",
+            "importance_rank": 1,
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Falafel",
+            "importance_rank": 2,
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Baba Ganoush",
+            "importance_rank": 3,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Ratatouille",
+            "importance_rank": 4,
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "Vegetable Lasagna",
+            "importance_rank": 5,
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "Ratatouille",
+            "importance_rank": 6,
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Bagel with Cream Cheese",
+            "importance_rank": 7,
+            "page_number": 9
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Apple Peanut Butter Sandwiches",
+            "importance_rank": 8,
+            "page_number": 12
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Cottage Cheese and Fruit",
+            "importance_rank": 9,
+            "page_number": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Greek Yogurt with Honey and Nuts",
+            "importance_rank": 10,
+            "page_number": 14
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Season with salt and pepper, then toss to combine. Veggie Sushi Rolls Ingredients: \u2022 1 cup cooked sushi rice \u2022 1/2 cucumber, julienned \u2022 1/2 avocado, sliced \u2022 1/4 cup carrot, julienned \u2022 2 sheets nori (seaweed) \u2022 Soy sauce for dipping Instructions: \u2022 Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1 - inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite - sized pieces and serve with soy sauce. Spinach and Feta Stuffed Pita Ingredients: \u2022 1 whole wheat pita bread \u2022 1/2 cup spinach, chopped \u2022 1/4 cup feta cheese, crumbled \u2022 1/4 cup cherry tomatoes, halved \u2022 1 tablespoon olive oil \u2022 Salt and pepper to taste Instructions: \u2022 ",
+            "page_number": 11
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o Sprinkle with salt and serve warm or at room temperature. Falafel \uf0b7 Ingredients: o 1 can chickpeas o 1 small onion o 2 cloves garlic o 1/4 cup parsley o 1 teaspoon cumin o 1 teaspoon coriander o 1 teaspoon salt o 1/4 cup flour o Oil for frying \uf0b7 Instructions: o Drain and rinse chickpeas. o Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, and salt in a food processor. o Add flour and mix until combined. o Form mixture into balls and fry in hot oil until golden.",
+            "page_number": 7
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Fry in hot oil until golden. o Drain on paper towels and serve warm. Baba Ganoush \uf0b7 Ingredients: o 2 eggplants o 1/4 cup tahini o 1/4 cup lemon juice o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon salt \uf0b7 Instructions: o Roast eggplants until soft, then peel and mash. o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. o Slowly add olive oil while blending until smooth. o Serve with a drizzle of olive oil. Baked Beans \uf0b7 Ingredients: o 4 cups cooked navy beans o 1 small onion o 1/2 cup molasses o 1/4 cup brown sugar o 1/4 cup ketchup o 1 tablespoon mustard o 1 teaspoon salt o 1/2 teaspoon pepper \uf0b7 Instructions: o Preheat oven to 350\u00b0F (175\u00b0C). o Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a baking dish.",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "rn pork chops to the skillet and simmer for 10 minutes until cooked through. Ratatouille Ingredients: \uf0b7 1 eggplant, diced \uf0b7 1 zucchini, diced \uf0b7 1 bell pepper, diced \uf0b7 1 small onion, diced \uf0b7 2 cloves garlic, minced \uf0b7 4 tomatoes, diced",
+            "page_number": 15
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "Transfer to a baking dish and bake for 20 - 25 minutes until cooked through. Vegetable Lasagna Ingredients: \uf0b7 9 lasagna noodles, cooked \uf0b7 1 small onion, diced \uf0b7 2 cloves garlic, minced \uf0b7 1 zucchini, sliced",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o Mix yogurt with cucumber, chopped mint, cumin, and salt. o Serve chilled. Ratatouille \uf0b7 Ingredients: o 1 eggplant o 1 zucchini o 1 bell pepper o 1 small onion o 2 cloves garlic o 4 tomatoes o 1 teaspoon thyme",
+            "page_number": 7
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Bagel with Cream Cheese Ingredients: \u2022 1 bagel, sliced and toasted \u2022 2 tablespoons cream cheese \u2022 Optional toppings: smoked salmon, capers, red onion, tomato slices Instructions: \u2022 Spread cream cheese on each half of the toasted bagel. Add optional toppings if desired. Serve immediately. Breakfast Skillet Ingredients: \u2022 2 large eggs \u2022 1/2 cup diced potatoes \u2022 1/4 cup diced bell pepper \u2022 1/4 cup diced onion \u2022 1/4 cup cooked sausage or bacon \u2022 Salt and pepper to taste \u2022 1 tablespoon olive oil Instructions: \u2022 Heat olive oil in a skillet over medium heat. Add potatoes, bell pepper, and onion, and cook until tender. Add sausage or bacon and cook until heated through. Make two wells in the mixture and crack an egg into each well. Cover and cook until the eggs are set.",
+            "page_number": 9
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Apple Peanut Butter Sandwiches Ingredients: \u2022 1 apple, cored and sliced into rings \u2022 2 tablespoons peanut butter \u2022 Optional toppings: granola, raisins, coconut flakes Instructions: \u2022 Spread peanut butter on one side of each apple ring. Add optional toppings if desired. Sandwich two apple rings together with the peanut butter sides facing in. Protein Smoothie Ingredients: \u2022 1 banana \u2022 1/2 cup Greek yogurt \u2022 1/2 cup almond milk \u2022 1 scoop protein powder \u2022 1 tablespoon peanut butter Instructions:",
+            "page_number": 12
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Cottage Cheese and Fruit Ingredients: \u2022 1 cup cottage cheese \u2022 1/2 cup fresh berries \u2022 1 tablespoon honey Instructions: \u2022 In a bowl, combine cottage cheese and fresh berries. Drizzle with honey. Serve immediately. Veggie Wrap Ingredients: \u2022 1 large whole wheat tortilla \u2022 1/4 cup hummus \u2022 1/4 cup shredded carrots \u2022 1/4 cup sliced cucumber \u2022 1/4 cup baby spinach \u2022 1/4 cup sliced bell pepper Instructions: \u2022 Spread hummus on the tortilla. Layer with shredded carrots, cucumber, spinach, and bell pepper. Roll up the tortilla tightly. Slice in half and serve. Almond Butter Banana Toast Ingredients: \u2022 2 slices whole grain bread, toasted \u2022 2 tablespoons almond butter \u2022 1 banana, sliced \u2022 1 teaspoon chia seeds Instructions: \u2022 Spread almond butter on the toasted bread.",
+            "page_number": 13
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Greek Yogurt with Honey and Nuts Ingredients: \u2022 1 cup Greek yogurt \u2022 1 tablespoon honey \u2022 1/4 cup mixed nuts Instructions: \u2022 In a bowl, combine Greek yogurt and honey. Top with mixed nuts. Serve immediately. Avocado and Egg Toast Ingredients: \u2022 2 slices whole grain bread, toasted \u2022 1 ripe avocado \u2022 1 large egg, poached or fried \u2022 Crushed red pepper flakes to taste \u2022 Salt and pepper to taste Instructions: \u2022 Mash the avocado and spread it on the toasted bread. Top with the poached or fried egg. Season with crushed red pepper flakes + salt and pepper. Serve immediately. Quinoa Breakfast Bowl Ingredients: \u2022 1/2 cup cooked quinoa \u2022 1/4 cup diced avocado \u2022 1/4 cup cherry tomatoes, halved \u2022 1 large egg, poached or fried \u2022 Salt and pepper to taste Instructions: \u2022 In a bowl, combine cooked quinoa, ",
+            "page_number": 14
+        }
+    ]
+}
